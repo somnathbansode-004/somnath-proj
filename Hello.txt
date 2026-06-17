@@ -1,3 +1,6 @@
-welcome here
+welcome World
+<<<<<<< HEAD
 somnath bansode speking here from batch b32 batch
 
+=======
+>>>>>>> parent of 61cb84f (second project)
