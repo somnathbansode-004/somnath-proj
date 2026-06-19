@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello from test branch
+=======
+hello
+>>>>>>> d5d64b3 (Added feature)
